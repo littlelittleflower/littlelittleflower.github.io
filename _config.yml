@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "Nanjing City, Jiangsu Province"
+title                    : "Chao Wang's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Chao wang"
+description              : &description "A doctoral student"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://littlelittleflower.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,8 +25,8 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Nanjing City, Jiangsu Province"
+  employer         : "Nanjing University of Aeronautics and Astronautics"
   uri              : # URL
   email            : "none@example.org" 
 
