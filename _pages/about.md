@@ -15,7 +15,7 @@ Chao Wang has been with the College of Computer Science and Technology, Nanjing 
 
 Experience
 ======
-* Phd Student: Fall 2023 to Present，College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China.
+* PHD Student: Fall 2023 to Present，College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China.
 * Algorithm Intern in JD Industrial Department of JD Group from 2021.9 to 2022.1.
 
 Selected Honors
