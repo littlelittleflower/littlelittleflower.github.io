@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.png"
+  avatar           : "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E7%99%BD%E9%87%91%E8%BF%AA%E6%96%AF%E7%A7%91&step_word=&hs=0&pn=0&spn=0&di=7308398814245683201&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=2952259429%2C3762110640&os=1215045285%2C639056011&simid=2952259429%2C3762110640&adpicid=0&lpn=0&ln=344&fr=&fmq=1711974397045_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fimg4.fzithome.com%2Fwenda%2F20170218%2Ft01a286563f3388c8c9.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Buztpi54j_z%26e3Bv54AzdH3Fojg1wAzdH3F99b98_z%26e3Bip4s&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&dyTabStr=MCwxLDMsMiw2LDQsNSw3LDgsOQ%3D%3D&lid=8248393139951636607"
   name             : "Chao Wang"
   pronouns         : # example: "she/her"  
   bio              : "A doctoral student"
