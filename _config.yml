@@ -31,7 +31,7 @@ author:
   email            : "wangchaoi@nuaa.edu.cn"
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=b8m-9QEAAAAJ&hl=zh-CN"
   researchgate     : # URL
 
   # Repositories and software development
@@ -40,28 +40,12 @@ author:
   CSDN             : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
   instagram        : # Username
-  lastfm           : # Username
   linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
-  tumblr           : # Username
   twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
-  vine             : # Username
   weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
   youtube          : # Username
   zhihu            : # URL
 
