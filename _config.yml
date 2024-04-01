@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "avatar.png"
   name             : "Chao Wang"
   pronouns         : # example: "she/her"  
   bio              : "A doctoral student"
@@ -44,7 +44,6 @@ author:
   linkedin         : # Username
   steam            : # Username
   telegram         : # URL
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
   weibo            : # Username
   youtube          : # Username
   zhihu            : # URL
