@@ -15,18 +15,18 @@ Chao Wang has been with the College of Computer Science and Technology, Nanjing 
 
 Experience
 ======
-<span style="display: inline-block; width: 5px; height: 5px; border-radius: 50%; background-color: black;"></span> Phd Student: Fall 2023 to Present，College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China.
-<span style="display: inline-block; width: 5px; height: 5px; border-radius: 50%; background-color: black;"></span> Algorithm Intern in JD Industrial Department of JD Group form 2021.9 to 2022.1.
+* Phd Student: Fall 2023 to Present，College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China.
+* Algorithm Intern in JD Industrial Department of JD Group form 2021.9 to 2022.1.
 
 Selected Honors
 ------
-<span style="display: inline-block; width: 5px; height: 5px; border-radius: 50%; background-color: black;"></span> Outstanding Graduates of Beijing in 2023
-<span style="display: inline-block; width: 5px; height: 5px; border-radius: 50%; background-color: black;"></span> Outstanding Graduates of China University of Mining & Technology, Beijing in 2023 
+* Outstanding Graduates of Beijing in 2023
+* Outstanding Graduates of China University of Mining & Technology, Beijing in 2023 
 
 Featured Publications
 ------
-<span style="display: inline-block; width: 5px; height: 5px; border-radius: 50%; background-color: black;"></span> Zhou Faguo, **Wang Chao**, Wang Jipeng. Named entity recognition of ancient poems based on Albert-BiLSTM-MHA-CRF model[J]. Wireless Communications and Mobile Computing, 2022, 2022.
-<span style="display: inline-block; width: 5px; height: 5px; border-radius: 50%; background-color: black;"></span> Zhou Fafuo, *Wang Chao**, Sun Dongxue, et al. Joint big data extraction method for coal mine safety with characters and words fusion[J]. Journal of Signal Processing Systems, 2022, 94(11): 1213-1225.
+* Zhou Faguo, **Wang Chao**, Wang Jipeng. Named entity recognition of ancient poems based on Albert-BiLSTM-MHA-CRF model[J]. Wireless Communications and Mobile Computing, 2022, 2022.
+* Zhou Fafuo, *Wang Chao**, Sun Dongxue, et al. Joint big data extraction method for coal mine safety with characters and words fusion[J]. Journal of Signal Processing Systems, 2022, 94(11): 1213-1225.
 
 My Hobbies
 ------
