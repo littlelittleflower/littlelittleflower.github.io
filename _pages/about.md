@@ -30,7 +30,7 @@ Featured Publications
 
 My Hobbies
 ------
-Arena of Valor,Programming.
+Arena of Valor, Programming.
 
 For more info
 ------
