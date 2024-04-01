@@ -26,7 +26,7 @@ Selected Honors
 Featured Publications
 ------
 * Zhou Faguo, **Wang Chao**, Wang Jipeng. Named entity recognition of ancient poems based on Albert-BiLSTM-MHA-CRF model[J]. Wireless Communications and Mobile Computing, 2022, 2022.
-* Zhou Fafuo, **Wang Chao**, Sun Dongxue, et al. Joint big data extraction method for coal mine safety with characters and words fusion[J]. Journal of Signal Processing Systems, 2022, 94(11): 1213-1225.
+* Zhou Faguo, **Wang Chao**, Sun Dongxue, et al. Joint big data extraction method for coal mine safety with characters and words fusion[J]. Journal of Signal Processing Systems, 2022, 94(11): 1213-1225.
 
 My Hobbies
 ------
