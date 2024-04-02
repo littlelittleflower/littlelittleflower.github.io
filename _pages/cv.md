@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Fall 2021: Academic Pages Collaborator
-  * JD
+  * Company: JD
   * Duties includes: Recommendation system, knowledge graph algorithm research and implementation
   * Supervisor: Qinjin Yang
   
