@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Fall 2021: Academic Pages Collaborator
+* Fall 2021: Algorithm Intern
   * Company: JD
   * Duties includes: Recommendation system, knowledge graph algorithm research and implementation
   * Supervisor: Qinjin Yang
