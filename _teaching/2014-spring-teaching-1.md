@@ -9,12 +9,3 @@ location: "Beijing, China"
 ---
 
 Teach undergraduate students to do C++ related experiments.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
