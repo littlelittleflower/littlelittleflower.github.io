@@ -7,7 +7,7 @@ date: 2021-03-01
 location: "CUMTB, Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teach undergraduate students to do C++ related experiments.
 
 Heading 1
 ======
