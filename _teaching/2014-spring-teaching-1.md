@@ -1,11 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "C++ experimental teaching assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate C++ experimental course"
+permalink: /teaching/2021-spring-teaching
+date: 2021-03-01
+location: "CUMTB, Beijing, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
