@@ -11,11 +11,11 @@ I am an autumn doctoral student majoring in Computer Science and Technology from
 
 Biography
 ======
-Chao Wang has been with the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China, as Phd student, from Prof. Ma. since September 2023. From September 2020 to August 2023, he worked as a postgraduate in the School of Artificial Intelligence, China University of Mining & Technology, Beijing, China. He obtained Master’s degrees from China University of Mining & Technology, Beijing in 2023, under the supervision of [Associate Professor Zhou Faguo](https://ai.cumtb.edu.cn/info/1053/1127.htm). His recent research interests Natural language processing; data mining and social network analysis; artificial intelligence and deep learning; knowledge graph construction and its applications (automatic Q&A, community Q&A, chat robots); image recognition and processing.
+Chao Wang has been with the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China, as Phd student, from [Prof. Ma](https://faculty.nuaa.edu.cn/mazongmin/zh_CN/index.htm). since september 2023. From september 2020 to august 2023, he worked as a postgraduate in the School of Artificial Intelligence, China University of Mining & Technology, Beijing, China. He obtained Master’s degrees from China University of Mining & Technology, Beijing in 2023, under the supervision of [Associate Professor Zhou Faguo](https://ai.cumtb.edu.cn/info/1053/1127.htm). His recent research interests Natural language processing; data mining and social network analysis; artificial intelligence and deep learning; knowledge graph construction and its applications (automatic Q&A, community Q&A, chat robots); image recognition and processing.
 
 Experience
 ======
-* PHD Student: Fall 2023 to Present，College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China.
+* Phd Student: Fall 2023 to Present，College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China.
 * Algorithm Intern in JD Industrial Department of JD Group from 2021.9 to 2022.1.
 
 Selected Honors
