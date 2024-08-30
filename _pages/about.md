@@ -25,6 +25,7 @@ Selected Honors
 
 Featured Publications
 ------
+* **Wang Chao**, Yan Li, Ma Zongmin. Fuzzy Event Knowledge Graph Embedding Through Event Temporal and Causal Transfer[J]. IEEE Transactions on Fuzzy Systems, 2024, 2024.
 * Zhou Faguo, **Wang Chao**, Wang Jipeng. Named entity recognition of ancient poems based on Albert-BiLSTM-MHA-CRF model[J]. Wireless Communications and Mobile Computing, 2022, 2022.
 * Zhou Faguo, **Wang Chao**, Sun Dongxue, et al. Joint big data extraction method for coal mine safety with characters and words fusion[J]. Journal of Signal Processing Systems, 2022, 94(11): 1213-1225.
 
