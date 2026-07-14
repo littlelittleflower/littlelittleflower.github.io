@@ -9,4 +9,4 @@ paperurl: 'https://ieeexplore.ieee.org/abstract/document/11601055'
 citation: 'Wang C, Ma R, Liang X, et al. Inductive–Abductive Unseen-Node Reasoning on Fuzzy Event Graphs Via LLM Calibration[J]. IEEE Transactions on Fuzzy Systems, 2026.'
 ---
 
-This paper is about inductive fuzzy event reasoning.
+This paper is about inductive fuzzy event reasoning. 
