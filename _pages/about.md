@@ -25,6 +25,7 @@ Selected Honors
 
 Featured Publications
 ------
+* **Wang Chao**, Ma Ruizhe, Liang Xinyu, et al. Inductive–Abductive Unseen-Node Reasoning on Fuzzy Event Graphs Via LLM Calibration[J]. IEEE Transactions on Fuzzy Systems, 2026.
 * **Wang Chao**, Yan Li, Ma Zongmin. Multi-hop Fuzzy Event Knowledge Graph Reasoning with Event Soft Logical Rules Guidance[J]. IEEE Transactions on Fuzzy Systems, 2025, 2025.
 * **Wang Chao**, Yan Li, Ma Zongmin. Fuzzy Event Knowledge Graph Embedding Through Event Temporal and Causal Transfer[J]. IEEE Transactions on Fuzzy Systems, 2024, 2024.
 * Zhou Faguo, **Wang Chao**, Wang Jipeng. Named entity recognition of ancient poems based on Albert-BiLSTM-MHA-CRF model[J]. Wireless Communications and Mobile Computing, 2022, 2022.
